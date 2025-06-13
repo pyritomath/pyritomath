@@ -1,138 +1,160 @@
-# 🤖 Ali Badran | AI/ML Engineer in Training
+<div align="center">
 
-**University of London Student** • **Cairo, Egypt** • **Building AI Expertise for High-Impact Solutions**
+# ✨ Ali Badran
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=AI%2FML+Engineer+in+Training;University+of+London+Student;Building+Tomorrow's+AI+Solutions" alt="Typing SVG" />
 
-## 🎯 Mission Statement
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-Transforming from curious learner to AI expert through systematic mastery of machine learning fundamentals. My goal: build profitable AI solutions that solve real business problems while documenting every step of the journey.
-
-**Target: Kaggle Expert + 200K+ EGP Monthly Revenue through AI Consulting**
+</div>
 
 ---
 
-## 📊 Current Learning Progress
+<div align="center">
 
-### **🔥 Active Focus: Tier 0 - Combat Ready Foundations**
+## 🌟 About Me
 
-| Area | Status | Resources | Progress |
-|------|--------|-----------|----------|
-| **Linear Algebra** | 🔄 Active | 3Blue1Brown Series | 15% |
-| **Python Mastery** | ⏳ Next | Python Crash Course | 0% |
-| **Statistics** | ⏳ Queued | Think Stats | 0% |
-| **First Kaggle** | ⏳ Upcoming | Titanic Competition | 0% |
+</div>
 
-### **🎖️ Tier Progression System**
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Ali Badran"
+        self.location = "Cairo, Egypt 🇪🇬"
+        self.education = "University of London"
+        self.current_focus = ["Linear Algebra", "Python", "Machine Learning"]
+        self.goal = "Transform ideas into intelligent solutions"
+        
+    def get_current_status(self):
+        return {
+            "🔥 Learning": "3Blue1Brown Linear Algebra Series",
+            "📚 Reading": "Python Crash Course",
+            "🎯 Target": "First Kaggle Competition",
+            "💡 Building": "AI Foundation Projects"
+        }
+        
+    def future_plans(self):
+        return ["Kaggle Expert", "AI Consultant", "Problem Solver"]
 
-- **Tier 0:** Mathematical Foundations *(2-3 weeks)* → Revenue: 5K-15K EGP
-- **Tier 1:** ML Arsenal *(3-4 weeks)* → Revenue: 20K-40K EGP  
-- **Tier 2:** Deep Learning *(4-5 weeks)* → Revenue: 40K-80K EGP
-- **Tier 3:** Production & MLOps *(3-4 weeks)* → Revenue: 60K-120K EGP
-- **Tier 4:** Advanced AI & Research *(4-6 weeks)* → Revenue: 100K-200K EGP
-- **Tier 5:** AI Business Empire *(Ongoing)* → Revenue: 500K+ EGP
+me = AIEngineer()
+print("Building the future, one algorithm at a time...")
+```
 
 ---
 
-## 💻 Tech Stack & Learning Path
+<div align="center">
 
-### **Currently Mastering:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🚀 Learning Journey
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+### 🎯 Current Phase: **Foundation Building**
+
+<div align="center">
+
+| 🧮 **Linear Algebra** | 🐍 **Python Mastery** | 📊 **Statistics** | 🏆 **Kaggle Prep** |
+|:---:|:---:|:---:|:---:|
+| ![15%](https://progress-bar.dev/15/?scale=100&title=Progress&width=120&color=babaca&suffix=%) | ![5%](https://progress-bar.dev/5/?scale=100&title=Progress&width=120&color=babaca&suffix=%) | ![0%](https://progress-bar.dev/0/?scale=100&title=Progress&width=120&color=babaca&suffix=%) | ![0%](https://progress-bar.dev/0/?scale=100&title=Progress&width=120&color=babaca&suffix=%) |
+
+</div>
+
+### 🗺️ The Roadmap Ahead
+
+```mermaid
+graph TD
+    A[🔥 Foundation Phase] --> B[⚡ Algorithm Phase]
+    B --> C[🧠 Deep Learning Phase]
+    C --> D[🚀 Production Phase]
+    D --> E[👑 AI Expert]
+    
+    A --> A1[Linear Algebra]
+    A --> A2[Python + NumPy]
+    A --> A3[Statistics]
+    
+    B --> B1[Supervised Learning]
+    B --> B2[Feature Engineering]
+    B --> B3[Model Evaluation]
+    
+    C --> C1[Neural Networks]
+    C --> C2[Computer Vision]
+    C --> C3[NLP]
+    
+    D --> D1[MLOps]
+    D --> D2[Cloud Deployment]
+    D --> D3[Scaling Systems]
+```
+
+---
+
+<div align="center">
+
+## 💻 Tech Arsenal
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d0.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+
+### Currently Mastering
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-### **Next in Pipeline:**
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-### **Tools & Platforms:**
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Next in Pipeline
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-## 📁 Repository Structure
+<div align="center">
 
-### **📚 Learning Repositories**
-- **[linear-algebra-learning](upcoming)** - 3Blue1Brown implementations and visualizations
-- **[python-fundamentals](upcoming)** - Core Python projects and exercises  
-- **[kaggle-competitions](upcoming)** - Competition solutions and analysis
-- **[ml-algorithms-scratch](upcoming)** - Building ML algorithms from first principles
+## 📊 GitHub Analytics
 
-### **🚀 Project Repositories**
-- **[ai-consulting-portfolio](upcoming)** - Client work and case studies
-- **[data-analysis-projects](upcoming)** - Business intelligence and insights
-- **[deep-learning-experiments](upcoming)** - Neural network architectures and experiments
+<img src="https://github-readme-stats.vercel.app/api?username=pyritomath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=bf91f3&text_color=38BDF8" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pyritomath&theme=tokyonight&hide_border=true&background=1A1B27&stroke=70A5FD&ring=bf91f3&fire=38BDF8&currStreakNum=38BDF8&sideNums=38BDF8&currStreakLabel=70A5FD&sideLabels=70A5FD&dates=38BDF8" width="48%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pyritomath&custom_title=Contribution%20Graph&bg_color=1A1B27&color=38BDF8&line=70A5FD&point=bf91f3&area_color=70A5FD&title_color=70A5FD&area=true&hide_border=true" width="100%"/>
+
+</div>
 
 ---
 
-## 🏆 Goals & Milestones
+<div align="center">
 
-### **📅 2025 Targets**
+## 🌐 Let's Connect & Build Together
 
-**Q2 2025 (Current)**
-- [ ] Complete mathematical foundations (Linear Algebra, Statistics)
-- [ ] Build first 3 Python data analysis projects
-- [ ] Join and submit to first Kaggle competition
-- [ ] Land first data analysis consulting client (5K-15K EGP)
+<a href="https://www.linkedin.com/in/ali-badran-447271357/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-**Q3 2025**
-- [ ] Achieve Kaggle Bronze medal
-- [ ] Complete Andrew Ng ML Course
-- [ ] Build 5 end-to-end ML projects
-- [ ] Scale to 25K-50K EGP monthly consulting revenue
+### 🤝 Open to:
+- 💼 **Data Analysis Projects** - Let's solve real business problems
+- 🎯 **Kaggle Collaborations** - Team up for competitions  
+- 🧠 **Study Groups** - Learn together, grow faster
+- 💡 **AI Discussions** - Share ideas and insights
 
-**Q4 2025**
-- [ ] Master deep learning fundamentals
-- [ ] Deploy first production ML model
-- [ ] Achieve Kaggle Silver medal
-- [ ] Reach 50K-100K EGP monthly revenue
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
 
-**2026**
-- [ ] Kaggle Expert status
-- [ ] AI business empire: 200K+ EGP monthly
-- [ ] Recognized AI thought leader in MENA region
+</div>
 
 ---
 
-## 📈 Learning Philosophy
+<div align="center">
 
-**"Build in Public, Learn by Doing, Solve Real Problems"**
+### 💭 Philosophy
 
-Every concept I learn gets implemented from scratch. Every project connects to real business value. Every milestone is documented and shared to help others on their AI journey.
+*"In the world of AI, we're not just writing code—we're crafting the future, one algorithm at a time."*
 
-### **Current Focus Areas:**
-1. **Mathematical Intuition** - Understanding the "why" behind every algorithm
-2. **Practical Implementation** - Coding everything from scratch before using libraries  
-3. **Business Application** - Connecting technical skills to revenue opportunities
-4. **Knowledge Sharing** - Teaching others while learning myself
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
 
----
-
-## 🤝 Let's Connect
-
-- **LinkedIn:** [Ali Badran]((https://www.linkedin.com/in/ali-badran-447271357/))
-- **Location:** Cairo, Egypt (Open to remote work globally)
-- **Learning Status:** Actively seeking AI/ML opportunities and collaborations
-
-### **Open to:**
-- 💼 Data analysis and consulting projects
-- 🤝 Study groups and learning partnerships  
-- 🎯 Kaggle competition collaborations
-- 💡 AI project discussions and mentorship
-
----
-
-**📊 Profile Stats:**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyritomath&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyritomath&layout=compact&theme=radical)
-
----
-
-*"The best time to plant a tree was 20 years ago. The second best time is now. Starting my AI journey today."*
-
-**Last Updated:** June 2025 | **Next Milestone:** Complete Linear Algebra Series
+</div>
